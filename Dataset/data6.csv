@@ -1,0 +1,11 @@
+id,kode_provinsi,nama_provinsi,kode_kabupaten_kota,nama_kabupaten_kota,jenis_pendidikan,jumlah,satuan,tahun
+1,32,JAWA BARAT,3275,KOTA BEKASI,SD ke Bawah,7.81,Persen,2023
+2,32,JAWA BARAT,3275,KOTA BEKASI,Sekolah Menengah Pertama,7.97,Persen,2023
+3,32,JAWA BARAT,3275,KOTA BEKASI,Sekolah Menengah Atas,11.49,Persen,2023
+4,32,JAWA BARAT,3275,KOTA BEKASI,Sekolah Menengah Kejuruan,8.85,Persen,2023
+5,32,JAWA BARAT,3275,KOTA BEKASI,Perguruan Tinggi,5.07,Persen,2023
+6,32,JAWA BARAT,3275,KOTA BEKASI,SD ke Bawah,1.62,Persen,2024
+7,32,JAWA BARAT,3275,KOTA BEKASI,Sekolah Menengah Pertama,6.49,Persen,2024
+8,32,JAWA BARAT,3275,KOTA BEKASI,Sekolah Menengah Atas,11.33,Persen,2024
+9,32,JAWA BARAT,3275,KOTA BEKASI,Sekolah Menengah Kejuruan,9.85,Persen,2024
+10,32,JAWA BARAT,3275,KOTA BEKASI,Perguruan Tinggi,7.26,Persen,2024

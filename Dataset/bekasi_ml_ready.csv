@@ -1,0 +1,47 @@
+﻿tahun,daerah,pendidikan,usia_group,nilai,metric,source_file,pendidikan_level_ord,usia_min,usia_max,usia_mid
+2022,Kota Bekasi,ALL,<30,1995.0,jumlah_by_usia,data2.csv,,,29.0,14.5
+2022,Kota Bekasi,ALL,30-40,2420.0,jumlah_by_usia,data2.csv,,30.0,40.0,35.0
+2022,Kota Bekasi,ALL,40-50,366.0,jumlah_by_usia,data2.csv,,40.0,50.0,45.0
+2022,Kota Bekasi,ALL,50,1.0,jumlah_by_usia,data2.csv,,50.0,50.0,50.0
+2022,Kota Bekasi,Tidak Bersekolah,ALL,60772.0,jumlah_by_pendidikan,data3.csv,0.0,,,
+2022,Kota Bekasi,Tamatan SD,ALL,151663.0,jumlah_by_pendidikan,data3.csv,1.0,,,
+2022,Kota Bekasi,Tamatan SMP,ALL,181224.0,jumlah_by_pendidikan,data3.csv,2.0,,,
+2022,Kota Bekasi,Tamatan SMA,ALL,495595.0,jumlah_by_pendidikan,data3.csv,3.0,,,
+2022,Kota Bekasi,Tamatan Diploma I & II,ALL,377437.0,jumlah_by_pendidikan,data3.csv,4.0,,,
+2022,Kota Bekasi,Tamatan Diploma III,ALL,0.0,jumlah_by_pendidikan,data3.csv,4.0,,,
+2022,Kota Bekasi,Tamatan S1,ALL,0.0,jumlah_by_pendidikan,data3.csv,5.0,,,
+2022,Kota Bekasi,Tamatan S2,ALL,0.0,jumlah_by_pendidikan,data3.csv,6.0,,,
+2022,Kota Bekasi,ALL,ALL,15671.0,jumlah_by_kecamatan,data4.csv,,,,
+2022,Kota Bekasi,ALL,ALL,15207.0,jumlah_by_kecamatan,data4.csv,,,,
+2022,Kota Bekasi,ALL,ALL,19944.0,jumlah_by_kecamatan,data4.csv,,,,
+2022,Kota Bekasi,ALL,ALL,9826.0,jumlah_by_kecamatan,data4.csv,,,,
+2022,Kota Bekasi,ALL,ALL,9289.0,jumlah_by_kecamatan,data4.csv,,,,
+2022,Kota Bekasi,ALL,ALL,7754.0,jumlah_by_kecamatan,data4.csv,,,,
+2022,Kota Bekasi,ALL,ALL,5877.0,jumlah_by_kecamatan,data4.csv,,,,
+2022,Kota Bekasi,ALL,ALL,13259.0,jumlah_by_kecamatan,data4.csv,,,,
+2022,Kota Bekasi,ALL,ALL,14215.0,jumlah_by_kecamatan,data4.csv,,,,
+2022,Kota Bekasi,ALL,ALL,5571.0,jumlah_by_kecamatan,data4.csv,,,,
+2022,Kota Bekasi,ALL,ALL,10410.0,jumlah_by_kecamatan,data4.csv,,,,
+2022,Kota Bekasi,ALL,ALL,8293.0,jumlah_by_kecamatan,data4.csv,,,,
+2023,Kota Bekasi,ALL,ALL,2001.0,jumlah_by_kecamatan,data4.csv,,,,
+2023,Kota Bekasi,ALL,ALL,27916.0,jumlah_by_kecamatan,data4.csv,,,,
+2023,Kota Bekasi,ALL,ALL,4909.0,jumlah_by_kecamatan,data4.csv,,,,
+2023,Kota Bekasi,ALL,ALL,15689.0,jumlah_by_kecamatan,data4.csv,,,,
+2023,Kota Bekasi,ALL,ALL,5886.0,jumlah_by_kecamatan,data4.csv,,,,
+2023,Kota Bekasi,ALL,ALL,3070.0,jumlah_by_kecamatan,data4.csv,,,,
+2023,Kota Bekasi,ALL,ALL,28753.0,jumlah_by_kecamatan,data4.csv,,,,
+2023,Kota Bekasi,ALL,ALL,2247.0,jumlah_by_kecamatan,data4.csv,,,,
+2023,Kota Bekasi,ALL,ALL,31859.0,jumlah_by_kecamatan,data4.csv,,,,
+2023,Kota Bekasi,ALL,ALL,4235.0,jumlah_by_kecamatan,data4.csv,,,,
+2023,Kota Bekasi,ALL,ALL,5046.0,jumlah_by_kecamatan,data4.csv,,,,
+2023,Kota Bekasi,ALL,ALL,4648.0,jumlah_by_kecamatan,data4.csv,,,,
+2022,Kota Bekasi,ALL,15-19,2280.0,jumlah_by_usia,data5.csv,,15.0,19.0,17.0
+2022,Kota Bekasi,ALL,20-24,15978.0,jumlah_by_usia,data5.csv,,20.0,24.0,22.0
+2022,Kota Bekasi,ALL,25-29,24963.0,jumlah_by_usia,data5.csv,,25.0,29.0,27.0
+2022,Kota Bekasi,ALL,30-34,1995.0,jumlah_by_usia,data5.csv,,30.0,34.0,32.0
+2022,Kota Bekasi,ALL,35-39,60.0,jumlah_by_usia,data5.csv,,35.0,39.0,37.0
+2022,Kota Bekasi,ALL,40-44,335.0,jumlah_by_usia,data5.csv,,40.0,44.0,42.0
+2022,Kota Bekasi,ALL,45-49,30.0,jumlah_by_usia,data5.csv,,45.0,49.0,47.0
+2022,Kota Bekasi,ALL,50-54,1.0,jumlah_by_usia,data5.csv,,50.0,54.0,52.0
+2022,Kota Bekasi,ALL,55-59,483.0,jumlah_by_usia,data5.csv,,55.0,59.0,57.0
+2022,Kota Bekasi,ALL,60-64,23.0,jumlah_by_usia,data5.csv,,60.0,64.0,62.0

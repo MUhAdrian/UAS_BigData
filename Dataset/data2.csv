@@ -1,0 +1,5 @@
+id,kode_provinsi,nama_provinsi,kode_kabupaten_kota,nama_kabupaten_kota,kelompok_usia,jumlah,satuan,tahun
+1,32,JAWA BARAT,3275,KOTA BEKASI,USIA < 30,1995,Orang,2022
+2,32,JAWA BARAT,3275,KOTA BEKASI,USIA 30 - 40,2420,Orang,2022
+3,32,JAWA BARAT,3275,KOTA BEKASI,USIA 40 - 50,366,Orang,2022
+4,32,JAWA BARAT,3275,KOTA BEKASI,USIA > 50,1,Orang,2022

@@ -1,0 +1,58 @@
+﻿kode_provinsi,nama_provinsi,kode_kota,nama_kota,nilai,satuan,tahun,source_file,usia_kelompok,pendidikan,kode_kecamatan,metric,usia_min,usia_max,usia_mid,usia_label_std,pendidikan_level_ord,nama_kecamatan,daerah,usia_group
+32,Jawa Barat,3216,Kabupaten Bekasi,142818.0,ORANG,2024,data1.csv,,ALL,,jumlah_pengangguran_terbuka_total,,,,,,,Kabupaten Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,1995.0,Orang,2022,data2.csv,USIA < 30,ALL,,jumlah_by_usia,,29.0,14.5,<30,,,Kota Bekasi,<30
+32,Jawa Barat,3275,Kota Bekasi,2420.0,Orang,2022,data2.csv,USIA 30 - 40,ALL,,jumlah_by_usia,30.0,40.0,35.0,30-40,,,Kota Bekasi,30-40
+32,Jawa Barat,3275,Kota Bekasi,366.0,Orang,2022,data2.csv,USIA 40 - 50,ALL,,jumlah_by_usia,40.0,50.0,45.0,40-50,,,Kota Bekasi,40-50
+32,Jawa Barat,3275,Kota Bekasi,1.0,Orang,2022,data2.csv,USIA > 50,ALL,,jumlah_by_usia,50.0,50.0,50.0,50,,,Kota Bekasi,50
+32,Jawa Barat,3275,Kota Bekasi,60772.0,-,2022,data3.csv,,Tidak Bersekolah,,jumlah_by_pendidikan,,,,,0.0,,Kota Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,151663.0,-,2022,data3.csv,,Tamatan SD,,jumlah_by_pendidikan,,,,,1.0,,Kota Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,181224.0,-,2022,data3.csv,,Tamatan SMP,,jumlah_by_pendidikan,,,,,2.0,,Kota Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,495595.0,-,2022,data3.csv,,Tamatan SMA,,jumlah_by_pendidikan,,,,,3.0,,Kota Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,377437.0,-,2022,data3.csv,,Tamatan Diploma I & II,,jumlah_by_pendidikan,,,,,4.0,,Kota Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,0.0,-,2022,data3.csv,,Tamatan Diploma III,,jumlah_by_pendidikan,,,,,4.0,,Kota Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,0.0,-,2022,data3.csv,,Tamatan S1,,jumlah_by_pendidikan,,,,,5.0,,Kota Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,0.0,-,2022,data3.csv,,Tamatan S2,,jumlah_by_pendidikan,,,,,6.0,,Kota Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,15671.0,-,2022,data4.csv,,ALL,3275040,jumlah_by_kecamatan,,,,,,,Kota Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,15207.0,-,2022,data4.csv,,ALL,3275060,jumlah_by_kecamatan,,,,,,,Kota Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,19944.0,-,2022,data4.csv,,ALL,3275070,jumlah_by_kecamatan,,,,,,,Kota Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,9826.0,-,2022,data4.csv,,ALL,3275050,jumlah_by_kecamatan,,,,,,,Kota Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,9289.0,-,2022,data4.csv,,ALL,3275041,jumlah_by_kecamatan,,,,,,,Kota Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,7754.0,-,2022,data4.csv,,ALL,3275061,jumlah_by_kecamatan,,,,,,,Kota Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,5877.0,-,2022,data4.csv,,ALL,3275030,jumlah_by_kecamatan,,,,,,,Kota Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,13259.0,-,2022,data4.csv,,ALL,3275010,jumlah_by_kecamatan,,,,,,,Kota Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,14215.0,-,2022,data4.csv,,ALL,3275020,jumlah_by_kecamatan,,,,,,,Kota Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,5571.0,-,2022,data4.csv,,ALL,3275011,jumlah_by_kecamatan,,,,,,,Kota Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,10410.0,-,2022,data4.csv,,ALL,3275031,jumlah_by_kecamatan,,,,,,,Kota Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,8293.0,-,2022,data4.csv,,ALL,3275012,jumlah_by_kecamatan,,,,,,,Kota Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,2001.0,Orang,2023,data4.csv,,ALL,3275030,jumlah_by_kecamatan,,,,,,,Kota Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,27916.0,Orang,2023,data4.csv,,ALL,3275031,jumlah_by_kecamatan,,,,,,,Kota Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,4909.0,Orang,2023,data4.csv,,ALL,3275040,jumlah_by_kecamatan,,,,,,,Kota Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,15689.0,Orang,2023,data4.csv,,ALL,3275060,jumlah_by_kecamatan,,,,,,,Kota Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,5886.0,Orang,2023,data4.csv,,ALL,3275061,jumlah_by_kecamatan,,,,,,,Kota Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,3070.0,Orang,2023,data4.csv,,ALL,3275011,jumlah_by_kecamatan,,,,,,,Kota Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,28753.0,Orang,2023,data4.csv,,ALL,3275041,jumlah_by_kecamatan,,,,,,,Kota Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,2247.0,Orang,2023,data4.csv,,ALL,3275050,jumlah_by_kecamatan,,,,,,,Kota Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,31859.0,Orang,2023,data4.csv,,ALL,3275070,jumlah_by_kecamatan,,,,,,,Kota Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,4235.0,Orang,2023,data4.csv,,ALL,3275010,jumlah_by_kecamatan,,,,,,,Kota Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,5046.0,Orang,2023,data4.csv,,ALL,3275012,jumlah_by_kecamatan,,,,,,,Kota Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,4648.0,Orang,2023,data4.csv,,ALL,3275020,jumlah_by_kecamatan,,,,,,,Kota Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,2280.0,Orang,2022,data5.csv,15-19,ALL,,jumlah_by_usia,15.0,19.0,17.0,15-19,,,Kota Bekasi,15-19
+32,Jawa Barat,3275,Kota Bekasi,15978.0,Orang,2022,data5.csv,20-24,ALL,,jumlah_by_usia,20.0,24.0,22.0,20-24,,,Kota Bekasi,20-24
+32,Jawa Barat,3275,Kota Bekasi,24963.0,Orang,2022,data5.csv,25-29,ALL,,jumlah_by_usia,25.0,29.0,27.0,25-29,,,Kota Bekasi,25-29
+32,Jawa Barat,3275,Kota Bekasi,1995.0,Orang,2022,data5.csv,30-34,ALL,,jumlah_by_usia,30.0,34.0,32.0,30-34,,,Kota Bekasi,30-34
+32,Jawa Barat,3275,Kota Bekasi,60.0,Orang,2022,data5.csv,35-39,ALL,,jumlah_by_usia,35.0,39.0,37.0,35-39,,,Kota Bekasi,35-39
+32,Jawa Barat,3275,Kota Bekasi,335.0,Orang,2022,data5.csv,40-44,ALL,,jumlah_by_usia,40.0,44.0,42.0,40-44,,,Kota Bekasi,40-44
+32,Jawa Barat,3275,Kota Bekasi,30.0,Orang,2022,data5.csv,45-49,ALL,,jumlah_by_usia,45.0,49.0,47.0,45-49,,,Kota Bekasi,45-49
+32,Jawa Barat,3275,Kota Bekasi,1.0,Orang,2022,data5.csv,50-54,ALL,,jumlah_by_usia,50.0,54.0,52.0,50-54,,,Kota Bekasi,50-54
+32,Jawa Barat,3275,Kota Bekasi,483.0,Orang,2022,data5.csv,55-59,ALL,,jumlah_by_usia,55.0,59.0,57.0,55-59,,,Kota Bekasi,55-59
+32,Jawa Barat,3275,Kota Bekasi,23.0,Orang,2022,data5.csv,60-64,ALL,,jumlah_by_usia,60.0,64.0,62.0,60-64,,,Kota Bekasi,60-64
+32,Jawa Barat,3275,Kota Bekasi,7.81,Persen,2023,data6.csv,,SD ke Bawah,,tingkat_pengangguran_(persen)_by_pendidikan,,,,,1.0,,Kota Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,7.97,Persen,2023,data6.csv,,Sekolah Menengah Pertama,,tingkat_pengangguran_(persen)_by_pendidikan,,,,,2.0,,Kota Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,11.49,Persen,2023,data6.csv,,Sekolah Menengah Atas,,tingkat_pengangguran_(persen)_by_pendidikan,,,,,3.0,,Kota Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,8.85,Persen,2023,data6.csv,,Sekolah Menengah Kejuruan,,tingkat_pengangguran_(persen)_by_pendidikan,,,,,,,Kota Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,5.07,Persen,2023,data6.csv,,Perguruan Tinggi,,tingkat_pengangguran_(persen)_by_pendidikan,,,,,,,Kota Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,1.62,Persen,2024,data6.csv,,SD ke Bawah,,tingkat_pengangguran_(persen)_by_pendidikan,,,,,1.0,,Kota Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,6.49,Persen,2024,data6.csv,,Sekolah Menengah Pertama,,tingkat_pengangguran_(persen)_by_pendidikan,,,,,2.0,,Kota Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,11.33,Persen,2024,data6.csv,,Sekolah Menengah Atas,,tingkat_pengangguran_(persen)_by_pendidikan,,,,,3.0,,Kota Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,9.85,Persen,2024,data6.csv,,Sekolah Menengah Kejuruan,,tingkat_pengangguran_(persen)_by_pendidikan,,,,,,,Kota Bekasi,ALL
+32,Jawa Barat,3275,Kota Bekasi,7.26,Persen,2024,data6.csv,,Perguruan Tinggi,,tingkat_pengangguran_(persen)_by_pendidikan,,,,,,,Kota Bekasi,ALL

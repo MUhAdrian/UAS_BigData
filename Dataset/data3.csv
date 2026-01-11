@@ -1,0 +1,9 @@
+id,kode_provinsi,nama_provinsi,kode_kabupaten_kota,nama_kabupaten_kota,jenis_pendidikan,jumlah,satuan,tahun
+1,32,JAWA BARAT,3275,KOTA BEKASI,Tidak Bersekolah,60772,-,2022
+2,32,JAWA BARAT,3275,KOTA BEKASI,Tamatan SD,151663,-,2022
+3,32,JAWA BARAT,3275,KOTA BEKASI,Tamatan SMP,181224,-,2022
+4,32,JAWA BARAT,3275,KOTA BEKASI,Tamatan SMA,495595,-,2022
+5,32,JAWA BARAT,3275,KOTA BEKASI,Tamatan Diploma I  & II,377437,-,2022
+6,32,JAWA BARAT,3275,KOTA BEKASI,Tamatan Diploma III,0,-,2022
+7,32,JAWA BARAT,3275,KOTA BEKASI,Tamatan S1,0,-,2022
+8,32,JAWA BARAT,3275,KOTA BEKASI,Tamatan S2,0,-,2022
